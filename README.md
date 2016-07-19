@@ -6,14 +6,18 @@ A few aliases for git, and oft-visited folders. Mostly out-of-the-box standard U
 
 ## vim
 My vimrc is pretty basic and I don't use any plugins for fear of getting married to a setup and becoming crippled in an alien setup. The two hacks I absolutely cannot live without (there, I'm already crippled) as a vim user are:
+
 1. Remap `Caps Lock` to `Esc`
+
 2. Remap `;` to `:`
 
 Together they make my vim workflow very quick and efficient in terms of keystrokes and hand-in-glove coordination of thought and typing.
 
 ## tmux
 My conf file does only two things:
+
 1. Remap the ridiculous `Ctrl + b` prefix to a much saner `~` key
+
 2. Remap the navigation keys to `h`, `j`, `k`, and `l`
 
 ## synaptics settings tuning

@@ -1,0 +1,11 @@
+"xdotool key Ctrl+Alt+Left"
+release + b:11
+
+"xdotool key Ctrl+Alt+Right"
+release + b:10
+
+"xdotool key Alt+Tab"
+release + b:8
+
+"xdotool key Alt+Left"
+release + b:9

@@ -11,14 +11,14 @@ nmap ; :
 set ai
 
 " Set tab as 2 spaces
-set tabstop=2
+set tabstop=8
 
 " Convert tabs to spaces
 set expandtab
 
 " Set number of spaces in each 
 " indentation level for code
-set shiftwidth=2
+set shiftwidth=8
 
 " Some random indentation thing
 set smartindent
@@ -48,7 +48,7 @@ set wm=2
 set nowrap
 
 " Colour scheme
-colorscheme Tomorrow-Night-Bright
+colorscheme monokai
 
 " Syntax highlighting
 syntax enable
